@@ -35,7 +35,7 @@ La empresa nació en abril de 2026 en el Polo Educativo Tecnológico Montevideo 
 | Nahuel Pereira | Subcoordinador | [Perfil](https://github.com/USUARIO) |
 | Brian Fernández | Fullstack | [Perfil](https://github.com/USUARIO) |
 | Andrés Silva | Marketing | [Perfil](https://github.com/USUARIO) |
-| Leonardo González | Fullstack | [Perfil](https://github.com/USUARIO) |
+| Leonardo González | Fullstack | [Perfil](https://github.com/legodev) |
 
 ## Contacto
 
